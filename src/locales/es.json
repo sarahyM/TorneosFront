@@ -1,0 +1,105 @@
+{
+
+    "Saludo":"Hola  ",
+
+
+    "TituloIS" : "Iniciar Sesión",
+    "BienvenidaIS" : "¡Bienvenido!",
+    "UsuarioIS" : "Usuario",
+    "ContraseñaIS" : "Contraseña",
+    "UnirmeIS" : "Unirme",
+    "GoogleIS" : "Iniciar sesión con google",
+    "PreguntaRegistroIS" : "¿No estas registrado aún?",
+    "RegistrarmeIS" : "Registrarme",
+
+    "TituloReg": "Registro",
+    "UsuarioReg": "Usuario",
+    "ContraseñaReg": "Contraseña",
+    "ConfirmarContraseñaReg": "Confirmar contraseña",
+    "CrearReg": "Crear cuenta",
+    "PreguntaReg": "¿Ya estás registrado?",
+    "UneteReg": "Unirme",
+
+    "UsuarioVal1": "4 a 24 caracteres. Debe iniciar con una letra.Letras",
+    "UsuarioVal2": ",numeros, guiones permitidos.",
+    "ContraseñaVal1": "De 8 a 24 caracteres. Debe incluir letras mayúsculas y minúsculas",
+    "ContraseñaVal2": "así como un número y un carácter especial. Se permiten los siguientes",
+    "ContraseñaVal3": "caracteres especiales:",
+    "ConfirmarContraVal": "Debe ser la misma contraseña del paso anterior",
+
+    "ErrorIS1": "No se pudo conectar con el servidor",
+    "ErrorIS2": "Falta usuario o contraseña",
+    "ErrorIS3": "Usuario o contraseña incorrectos",
+    "ErrorIS4": "Inicio fallido, intente de nuevo más tarde",
+    "ErrorReg1": "El servidor no responde",
+    "ErrorReg2": "¡El usuario ya existe!",
+    "ErrorReg3": "Registro fallido",
+    "ErrorAlreadySubscribed": "¡Ya estas inscrito en este torneo!",
+
+
+    "ExitosoReg": "Registro Exitoso",
+    "IrAUnirmeReg": "Ir a inicio de sesión",
+
+    "Nav1": "TorneosEnVivo",
+    "Nav2": "MisTorneos", 
+    "Nav3": "Admin",
+    "Nav4": "Editar torneos",
+
+
+    "CrearTorneo":"Crear Torneo",
+    "MisTorneos":"Crear Torneo",
+    "EditarPerfil": "Editar perfil",
+
+    "WAdmin":"Bienvenido Admin: ",
+
+
+    "InscripcionTorneo": "Inscribirse al torneo",
+    "IrTorneosCreados": "Ir a torneos",
+
+    "NombreTorneo": "Nombre Torneo",
+    "DireccionTorneo": "Dirección",
+    "ImagenURL": "URL Imagen",
+    "Descripcion": "Descripción",
+    "FechaInicio":"Seleccione Fecha de Inicio: ",
+    "FechaFin": "Seleccione Fecha de Finalización: ",
+
+    
+    "FechaInicioCard": "Fecha Inicio:  ",
+    "FechaFinCard": "Fecha Fin:  ",
+    "Detalles": "Detalles",
+
+    "IraMisTorneos":"Ir a mis torneos inscritos",
+
+    "CategorySelection":"Selecciona la categoria en la que quisieras participar",
+
+    "Unauthorized1": "¡Ups! Parece que no estás autorizado para acceder a esta página.",
+    "Unauthorized2": "Por favor, contacta al administrador si crees que esto es un error.",
+    "Unauthorized3": "401 no autorizado",
+
+    "Eliminar": "Delete",
+
+    "Slides1": "Natación",
+    "Slides2": "Golf",
+    "Slides3": "Ciclismo",
+    "Slides4": "Tenis",
+    "Slides5": "Baloncesto",
+
+    "SlidesText1": "¡Participa en torneos de natación!",
+    "SlidesText2": "¡Participa en torneos de golf!",
+    "SlidesText3": "¡Participa en torneos de ciclismo!",
+    "SlidesText4": "¡Participa en torneos de tenis!",
+    "SlidesText5": "¡Participa en torneos de baloncesto!",
+
+    "CallToAction": "¡Participa!",
+
+    "Update": "Actualizar",
+
+    "InvalidDates": "Elige o corrige las fechas",
+
+    "ValidDates": "Fechas válidas"
+
+
+
+
+
+}

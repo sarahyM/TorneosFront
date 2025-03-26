@@ -1,0 +1,102 @@
+{
+
+    "Saludo":"Hi  ",
+
+    "TituloIS" : "Login",
+    "BienvenidaIS" : "Welcome!",
+    "UsuarioIS" : "User",
+    "ContraseñaIS" : "Password",
+    "UnirmeIS" : "Join",
+    "GoogleIS" : "Sign in with google",
+    "PreguntaRegistroIS" : "Not registered?",
+    "RegistrarmeIS" : "Register",
+
+    "TituloReg": "Register",
+    "UsuarioReg": "User",
+    "ContraseñaReg": "Password",
+    "ConfirmarContraseñaReg": "Confirm password",
+    "CrearReg": "Create account",
+    "PreguntaReg": "Registered?",
+    "UneteReg": "Join",
+
+    "Eliminar": "Delete",
+
+    "ErrorIS1": "Could not connect to the server",
+    "ErrorIS2": "Missing username or password",
+    "ErrorIS3": "Incorrect username or password",
+    "ErrorIS4": "Login failed, please try again later",
+    "ErrorReg1": "The server is not responding",
+    "ErrorReg2": "The user already exists!",
+    "ErrorReg3": "Registration failed",
+    "ErrorAlreadySubscribed": "You are already enrolled to this tournament",
+
+    "UsuarioVal1": "4 to 24 characters. Must start with a letter. Letters,",
+    "UsuarioVal2": "numbers, hyphens allowed.",
+    "ContraseñaVal1": "From 8 to 24 characters. Must include uppercase and lowercase letters",
+    "ContraseñaVal2": "as well as a number and a special character. The following",
+    "ContraseñaVal3": "special characters are allowed:",
+    "ConfirmarContraVal": "Must be the same password from the step before",
+
+
+    "ExitosoReg": "Successful registration",
+    "IrAUnirmeReg": "Go to SignIn",
+
+    "Nav1": "LiveTournaments",
+    "Nav2": "MyTournaments", 
+    "Nav3": "Admin",
+    "Nav4": "Edit Tournaments",
+
+    "CrearTorneo":"Create Tournament",
+    "MisTorneos":"My tournaments",
+    "EditarPerfil":"Edit profile",
+
+    "WAdmin":"Welcome admin: ",
+
+    "InscripcionTorneo": "Enroll tournament",
+    "IrTorneosCreados": "Go to tournaments",
+
+    "NombreTorneo": "Tournament Name",
+    "DireccionTorneo": "Address",
+    "ImagenURL": "Image URL",
+    "Descripcion": "Description",
+    "FechaInicio":"Select Starting Date: ",
+    "FechaFin": "Select Finishing Date",
+
+    "FechaInicioCard": "Starting Date:  ",
+    "FechaFinCard": "Finishing Date:  ",
+    "Detalles": "Details",
+
+    "IraMisTorneos":"Go to my enrolled tournaments",
+
+    "CategorySelection":"Participate in our tournament by selecting a category",
+
+    "Unauthorized1": "Oops! It seems you are not authorized to access this page.",
+    "Unauthorized2": "Please contact the administrator if you believe this is an error.",
+    "Unauthorized3": "401 unauthorized",
+
+
+    "Slides1": "Swimming",
+    "Slides2": "Golf",
+    "Slides3": "Cycling",
+    "Slides4": "Tennis",
+    "Slides5": "Basketball",
+
+    "SlidesText1": "Participate in our swimming tournaments",
+    "SlidesText2": "Participate in our golf tournaments",
+    "SlidesText3": "Participate in our cycling tournaments",
+    "SlidesText4": "Participate in our tennis tournaments",
+    "SlidesText5": "Participate in our basketball tournaments",
+
+    "CallToAction": "Join!",
+
+    "Update": "Update",
+
+    "InvalidDates": "Choose or fix your dates",
+
+    "ValidDates": "Valid dates"
+    
+
+
+
+
+}

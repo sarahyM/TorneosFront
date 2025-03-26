@@ -1,0 +1,18 @@
+GET http://localhost:3002/tournaments HTTP/1.1
+Content-Type: application/json
+
+###
+DELETE http://localhost:3002/tournaments/4 HTTP/1.1
+Content-Type: application/json
+
+
+###
+
+POST http://localhost:3002/tournaments HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Champions League",
+    "address": "Santiago Bernabeu",
+    "date": "28/04/20"
+}

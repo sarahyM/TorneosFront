@@ -1,24 +1,45 @@
-# Base Project Web Development Course
+# Proyecto Base del Curso de Desarrollo Web
 
-- Take this project to guide your learning process towards the achievement of the goals in the course
-- This project is a guide. Follow the instructions in BN course and the documentation provided
+**¡Bienvenido/a!** Este proyecto ha sido diseñado como una guía fundamental para acompañarte en tu camino de aprendizaje y ayudarte a alcanzar los objetivos establecidos en nuestro curso de desarrollo web.
 
-# Instructions for the correct execution of the project
+Piensa en este proyecto como un mapa detallado. Sigue cuidadosamente las instrucciones proporcionadas en el material del curso BN y la documentación adjunta para asegurar una ejecución exitosa.
 
-1. Download the front and back project in your devices
-2. Install dependencies with npm install
-3. Set the pgAdmin database following the tutorials from the course and use the information in the app.module from the back project and use it on the pgAdmin
-4. Register your user in the register view. This will by default set you a user role
-5. Register with 2 users more, and then in pgAdmin you can see the 3 users you just registered with the user role
-6. Change the role of one of the users to admin directly in the database, in the column role and save the changes. Do the same with the other user to superadmin
-7. Now you can enter the app with 3 users with different roles, and see all functionalities
+## Instrucciones Paso a Paso para la Ejecución del Proyecto
 
-user role: List tournaments. list enrolled tournaments, enroll tournaments
+1.  **Descarga los Proyectos (Front-end y Back-end):**
+    Asegúrate de tener ambos proyectos descargados en tu entorno de desarrollo.
 
-admin role: Create tournaments, list tournaments
+2.  **Instalación de Dependencias:**
+    Navega a la raíz de cada proyecto (front-end y back-end) y ejecuta el siguiente comando en tu terminal para instalar todas las dependencias necesarias:
+    ```bash
+    npm install
+    ```
 
-superadmin role: Delete tournaments, list tournaments
+3.  **Configuración de la Base de Datos pgAdmin:**
+    Sigue los tutoriales proporcionados en el curso para configurar correctamente tu base de datos pgAdmin. Utiliza la información de conexión que encontrarás en el archivo `app.module` del proyecto Back-end para establecer la conexión en pgAdmin.
 
-## Example of how your pgAdmin should look
+4.  **Registro del Primer Usuario (Rol: user):**
+    Abre la aplicación y dirígete a la vista de registro. Crea tu primera cuenta de usuario. Por defecto, este usuario será asignado con el rol de `user`.
 
-![alt text](image.png)
+5.  **Registro de Usuarios Adicionales (Rol: user):**
+    Registra dos usuarios más utilizando la misma vista de registro. Verifica en pgAdmin que los tres usuarios que has creado se muestran con el rol `user` en la base de datos.
+
+6.  **Modificación de Roles en pgAdmin (admin):**
+    Accede a tu base de datos en pgAdmin. Localiza la tabla de usuarios y busca uno de los usuarios que registraste. Edita la columna `role` de este usuario y cambia su valor a `admin`. Guarda los cambios realizados en la base de datos.
+
+7.  **Modificación de Roles en pgAdmin (superadmin):**
+    Repite el paso anterior para el otro usuario registrado, modificando su rol en la columna `role` a `superadmin`. Guarda nuevamente los cambios en la base de datos.
+
+8.  **Explorando las Funcionalidades con Diferentes Roles:**
+    Ahora puedes iniciar la aplicación e iniciar sesión con cada uno de los tres usuarios que has configurado. Observa las diferentes funcionalidades a las que tiene acceso cada rol:
+
+    * **Rol `user`:**
+        * Listar torneos.
+        * Listar torneos en los que está inscrito.
+        * Inscribirse en torneos.
+    * **Rol `admin`:**
+        * Crear torneos.
+        * Listar torneos.
+    * **Rol `superadmin`:**
+        * Eliminar torneos.
+        * Listar torneos.
